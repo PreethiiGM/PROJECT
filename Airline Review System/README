@@ -1,0 +1,2 @@
+Airline Review Prediction Using Neural Networks
+Built and trained a neural network model using Keras to predict airline flight recommendations based on customer reviews. The project involved data preprocessing, including encoding categorical features and handling missing values, designing a multi-layer neural network, and training the model with binary cross-entropy loss and the Adam optimizer. Additionally, developed a user interface for real-time predictions using custom inputs. Visualized model accuracy and loss with Matplotlib.
